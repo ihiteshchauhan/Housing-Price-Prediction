@@ -1,0 +1,23 @@
+1. LinearRegression Model
+    
+        Mean :  5.034676866560153
+        Standard Deviation :  1.055780230789885
+
+
+2. DecisionTreeRegressor
+        Mean :  4.341359367086241
+        Standard Deviation :  0.7782963364143274
+    
+    
+3. RandomForestRegressor
+        Mean :  3.3502480927730915
+        Standard Deviation :  0.6586632553463381
+        
+        
+        
+        
+        
+TEST ON TEST SET
+
+RandomForestRegressor
+        Mean : 3.4427066984808192
